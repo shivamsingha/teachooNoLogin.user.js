@@ -2,7 +2,7 @@
 Use [teachoo.com](https://www.teachoo.com/) without logging in or signing up. It just removes the annoying overlay elements. Nothing flashy.
 
 ### ⚠ IMPORTANT ⚠
-> **THIS USERSCRIPT WILL PROBABLY NOT BE UPDATED EVER! **
+> **THIS USERSCRIPT WILL PROBABLY NOT BE UPDATED EVER!**
 > **USE AS LONG AS YOU CAN**
 
 
