@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Teachoo fix
 // @namespace    teachooNoLogin
-// @version      1.1
+// @version      1.2
 // @license      MPL-2.0
 // @description  Use teachoo.com without logging in or signing up. It just removes the annoying overlay elements. Nothing flashy.
 // @author       shivamsingha
@@ -17,10 +17,8 @@
 // ==/UserScript==
 
 (function() {
-    $("body").removeClass();
-    $("body").removeAttr("style");
-    $("#body").removeAttr("style");
-    $(".container").removeAttr("style");
+    $("[style*='display']").removeAttr("style");
+
     $(".modal-backdrop").remove();
     $("#download-app-modal").remove();
     $(".modal").remove();
