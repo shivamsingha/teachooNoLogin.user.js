@@ -17,6 +17,7 @@
 // ==/UserScript==
 
 (function() {
+    $("body").removeAttr("class");
     $("[style*='display']").removeAttr("style");
 
     $(".modal-backdrop").remove();
