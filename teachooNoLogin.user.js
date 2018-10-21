@@ -8,8 +8,8 @@
 // @icon         https://cdn.jsdelivr.net/gh/shivamsingha/teachooNoLogin.user.js/teachoo_icon.png
 // @homepage     https://github.com/shivamsingha/teachooNoLogin.user.js
 // @supportURL   https://github.com/shivamsingha/teachooNoLogin.user.js/issues
-// @updateURL    https://cdn.jsdelivr.net/gh/shivamsingha/teachooNoLogin.user.js/teachooNoLogin.user.js
-// @downloadURL  https://cdn.jsdelivr.net/gh/shivamsingha/teachooNoLogin.user.js/teachooNoLogin.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/shivamsingha/teachooNoLogin.user.js@latest/teachooNoLogin.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/shivamsingha/teachooNoLogin.user.js@latest/teachooNoLogin.user.js
 // @match        *://*.teachoo.com/*
 // @grant        none
 // @require      https://cdn.jsdelivr.net/gh/jquery/jquery/dist/jquery.slim.min.js
