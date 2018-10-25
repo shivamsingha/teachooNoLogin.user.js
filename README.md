@@ -16,6 +16,7 @@ Use [teachoo.com](https://www.teachoo.com/) without logging in or signing up. It
 * ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/msedge.png) [Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)
 
 #### Step 2: Install the UserScript
+* [Install](https://cdn.jsdelivr.net/gh/shivamsingha/teachooNoLogin.user.js@latest/teachooNoLogin.user.js) *from jsDelivr CDN*
 * [Install](https://github.com/shivamsingha/teachooNoLogin.user.js/raw/master/teachooNoLogin.user.js) *from github.com*
 
 #### Enjoy!
